@@ -149,6 +149,7 @@ http://103.251.247.105:3001/aostv/5fed5d1ade843f05c3019208/aos.m3u8|tokenUrl:/4_
 http://103.251.247.105:3001/aostv/5feeaa90de843f05c301920a/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://static.hollywoodreporter.com/sites/default/files/2014/05/disney_channel_logo_a_l.jpg" group-title="KIDS [BDIX]", Disney Hindi
 http://103.251.247.105:3001/aostv/5ff6a9f459824649038bea19/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1321161682090102786/Z_7kkE_K_400x400.jpg" group-title="SPORTS [BDIX]", PTV Sport
+#EXTINF: -1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="SPORTS [BDIX]", Ten Sports
 http://103.251.247.105:3001/aostv/5ff74b91b271c8e37a1bf188/aos.m3u8|tokenUrl:/4_4
-
+#EXTINF: -1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA [BDIX]", Deepto TV
+http://103.251.247.105:3001/aostv/5ffa7dd306070b976d2db702/aos.m3u8|tokenUrl:/4_4
