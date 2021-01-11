@@ -151,5 +151,5 @@ http://103.251.247.105:3001/aostv/5feeaa90de843f05c301920a/aos.m3u8|tokenUrl:/4_
 http://103.251.247.105:3001/aostv/5ff6a9f459824649038bea19/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="SPORTS [BDIX]", Ten Sports
 http://103.251.247.105:3001/aostv/5ff74b91b271c8e37a1bf188/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA [BDIX]", Deepto TV
+#EXTINF: -1 tvg-logo="https://images.livemint.com/img/2019/02/25/600x338/Colours_1551091665014.jpg" group-title="HINDI [BDIX]", Colors Cineplex
 http://103.251.247.105:3001/aostv/5ffa7dd306070b976d2db702/aos.m3u8|tokenUrl:/4_4
