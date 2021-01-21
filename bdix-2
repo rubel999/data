@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/j/FKXLLtzdXI.png" group-title="HINDI [BDIX]", Colors Cineplex HD
+http://103.251.247.106:3001/aostv/600829d1af05178ef75e1dea/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/j/FnJpgPxXzw.png" group-title="KIDS [BDIX]", SONIC HINDI
+http://103.251.247.106:3001/aostv/60082b92af05178ef75e1dec/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="HINDI [BDIX]", STAR Plus HD
+http://103.251.247.106:3001/aostv/60083016af05178ef75e1df1/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/mFBTOrKMIH.png" group-title="HINDI [BDIX]", Dangal
+http://103.251.247.106:3001/aostv/600830e2af05178ef75e1df3/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/JgLheBRhKQ.png" group-title="HINDI [BDIX]", Colors HD
+http://103.251.247.106:3001/aostv/60083173af05178ef75e1df5/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="HINDI [BDIX]", Colors Infinity HD
+http://103.251.247.106:3001/aostv/6008324baf05178ef75e1df7/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/BYymWnmPPV.png" group-title="BANGLA [BDIX]", Enterr10 Movies
+http://103.251.247.106:3001/aostv/600832e1af05178ef75e1df9/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/dSqftIllAK.png" group-title="HINDI [BDIX]", Star Bharat HD
+http://103.251.247.106:3001/aostv/6008335daf05178ef75e1dfb/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png" group-title="BANGLA [BDIX]", Jalsha Movies HD
+http://103.251.247.106:3001/aostv/600834adaf05178ef75e1dfd/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/rQiIFTwapw.png" group-title="HINDI [BDIX]", Star GOLD HD
+http://103.251.247.106:3001/aostv/600835faaf05178ef75e1dff/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/IsScNhCCed.png" group-title="KIDS [BDIX]", Cartoon Network HD+
+http://103.251.247.106:3001/aostv/60083660af05178ef75e1e01/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/nyMjrmBnTv.png" group-title="HINDI [BDIX]", Bflix Movies
+http://103.251.247.106:3001/aostv/6008376baf05178ef75e1e03/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/dImnGOPnXd.png" group-title="SCIENCE & ANIMAL [BDIX]", Nat Geo Wild HD
+http://103.251.247.106:3001/aostv/600838aeaf05178ef75e1e07/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="ENGLISH [BDIX]", Movies Now HD
+http://103.251.247.106:3001/aostv/60083926af05178ef75e1e09/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/MfcsBUhXQx.png" group-title="SPORTS [BDIX]", Star Sports Select 1 HD
+http://103.251.247.106:3001/aostv/60084bdeaf05178ef75e1e0c/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/yTiRZUJMgP.png" group-title="SPORTS [BDIX]", Star Sports Select 2 HD
+http://103.251.247.106:3001/aostv/60084c4daf05178ef75e1e0e/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/hgnawhPYzD.png" group-title="SPORTS [BDIX]", Star Sports 1 HD
+http://103.251.247.106:3001/aostv/60084d38af05178ef75e1e10/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/BFrSSMWxab.png" group-title="SPORTS [BDIX]", Star Sports 2 HD
+http://103.251.247.106:3001/aostv/60084d8baf05178ef75e1e12/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/tpezvnuqDS.png" group-title="BANGLA [BDIX]", Star Jalsha HD
+http://103.251.247.106:3001/aostv/60084f45af05178ef75e1e14/aos.m3u8|tokenUrl:/4_4
