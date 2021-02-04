@@ -3,7 +3,7 @@
 http://103.251.247.105:3001/aostv/5f6f8d0883ec515e3c86bca9/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="SPORTS [BDIX]", BeIN Sports 1 HD 
 http://103.251.247.105:3001/aostv/5f8b11b10e5d270364c65b65/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="SPORTS [BDIX]", BeIN Sports 2 FHD
+#EXTINF: -1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="SPORTS [BDIX]", BeIN Sports 2 HD
 http://103.251.247.105:3001/aostv/5f8b13210e5d270364c65b68/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="SPORTS [BDIX]", BeIN Sports 3 FHD
 http://103.251.247.105:3001/aostv/5f8b13cd0e5d270364c65b6a/aos.m3u8|tokenUrl:/4_4
@@ -27,8 +27,6 @@ http://103.251.247.105:3001/aostv/5f8c83a40e5d270364c65b7f/aos.m3u8|tokenUrl:/4_
 http://103.251.247.105:3001/aostv/5f9687840ebdfb11f1048e46/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://img1.pnghut.com/t/3/3/6/MM38fsvj9b/text-bangla-tv-ntv-television-channel-bengali.jpg" group-title="SCIENCE & ANIMAL [BDIX]", Discovery BANGLA
 http://103.251.247.105:3001/aostv/5f96dc150ebdfb11f1048e58/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/05/27/pogo.jpg" group-title="KIDS [BDIX]", Pogo Hindi
-http://103.251.247.105:3001/aostv/5f9d4a75e4ae39a258c3f945/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://i1.wp.com/infoomni.com/wp-content/uploads/2018/08/ptv-sports-live-streaming.jpg" group-title="OP LIVE", PTV Sports
 http://103.251.247.105:3001/aostv/5f9eaabee4ae39a258c3f950/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://api.visionip.tv/portals/peacetv/peacetv/thumbs/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-thumb-SDh.jpg.png" group-title="ISLAMIC [BDIX]", Peace tv bangla
@@ -95,26 +93,18 @@ http://103.251.247.105:3001/aostv/5fc11a9477ef280ee69891ba/aos.m3u8|tokenUrl:/4_
 http://103.251.247.105:3001/aostv/5fc1d90a77ef280ee69891be/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://wersm.com/wp-content/uploads/2020/03/wersm-Facebook-Live-feat.jpg" group-title="OP LIVE", Live 2
 http://103.251.247.105:3001/aostv/5fc25f8d77ef280ee69891c6/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA [BDIX]", Star Jalsha SD
-http://103.251.247.105:3001/aostv/5fd330f0971e16c8bcae5a29/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="HINDI [BDIX]", Sony Sab
 http://103.251.247.105:3001/aostv/5fd6168d971e16c8bcae5a52/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925101777s.jpg" group-title="HINDI [BDIX]", Sony Ent
 http://103.251.247.105:3001/aostv/5fdb18f2971e16c8bcae5a56/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png" group-title="HINDI [BDIX]", Sony Pal
 http://103.251.247.105:3001/aostv/5fe4c0d564df00ac43c97e4d/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://tv.essenceitbd.com/uploads/tv_image/gazi-tv.jpg" group-title="BANGLA [BDIX]", Gazi TV
-http://103.251.247.105:3001/aostv/5fe5a7d264df00ac43c97e54/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://pxt.azureedge.net/blob/0b6e7b865eec328fd837240227b0d2765f1d0731/static/cp/projects/cartoon-network/cartoon-network-logo.png" group-title="KIDS [BDIX]", Cartoon Network
 http://103.251.247.105:3001/aostv/5fe5ad7d64df00ac43c97e59/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/assets/images/logo.png" group-title="KIDS [BDIX]", Sony Yay
 http://103.251.247.105:3001/aostv/5fe5b25264df00ac43c97e5c/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/10/thumbnails/Daily-sun-2020-11-10-31.jpg" group-title="SPORTS [BDIX]", TSportsHD
 http://103.251.247.105:3001/aostv/5fe5b4a164df00ac43c97e61/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC [BDIX]", MTV BEATS
-http://103.251.247.105:3001/aostv/5fe8352cb08aff26d4cf54f9/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://starsports2live.files.wordpress.com/2017/07/star_sports_1.png" group-title="SPORTS [BDIX]", Star Sports 1
-http://103.251.247.105:3001/aostv/5fe83b0bb08aff26d4cf54fd/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="SPORTS [BDIX]", Super Sports Cricket
 http://103.251.247.105:3001/aostv/5fe8bdc5b08aff26d4cf551c/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" group-title="SPORTS [BDIX]", Super Sports Premier League
@@ -137,19 +127,23 @@ http://103.251.247.105:3001/aostv/5fe9e6eef651bf45678696b7/aos.m3u8|tokenUrl:/4_
 http://103.251.247.105:3001/aostv/5fe9ecbff651bf45678696be/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/maximo-1.png" group-title="SPORTS [BDIX]", Super Sports Maximo
 http://103.251.247.105:3001/aostv/5fe9ed2cf651bf45678696c0/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" group-title="SPORTS [BDIX]", Star Sports 2
-http://103.251.247.105:3001/aostv/5fe9f810f651bf45678696c2/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png" group-title="HINDI [BDIX]", Sony Max 2
 http://103.251.247.105:3001/aostv/5fecb79dde843f05c30191fc/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pt9shD0eTcU/UipDikAV17I/AAAAAAAAALs/nD2unmgCSiM/s1600/sep28_3.jpg" group-title="BANGLA [BDIX]", Jalsha Movies HD
-http://103.251.247.105:3001/aostv/5fed5577de843f05c3019205/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="HINDU [BDIX]", Test
 http://103.251.247.105:3001/aostv/5fed5d1ade843f05c3019208/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://static.hollywoodreporter.com/sites/default/files/2014/05/disney_channel_logo_a_l.jpg" group-title="KIDS [BDIX]", Disney Hindi
 http://103.251.247.105:3001/aostv/5ff6a9f459824649038bea19/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/logo-with-tagline1.png" group-title="HINDI [BDIX]", Sony Wah
 http://103.251.247.105:3001/aostv/5ffa7dd306070b976d2db702/aos.m3u8|tokenUrl:/4_4
-#EXTINF: -1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA [BDIX]", Deepto TV
-http://103.251.247.105:3001/aostv/5ffc82da06070b976d2db70c/aos.m3u8|tokenUrl:/4_4
 #EXTINF: -1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony-Ten-3-Tv.png" group-title="SPORTS [BDIX]", Sony Ten 3
 http://103.251.247.105:3001/aostv/6007093e2b67f6394f6ddcda/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLA [BDIX]", Gazi tv
+http://103.251.247.105:3001/aostv/601bcb5b4b354108f0abe670/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="BANGLA [BDIX]", Deepto TV
+http://103.251.247.105:3001/aostv/601bcba94b354108f0abe673/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="BANGLA [BDIX]", Channel 9
+http://103.251.247.105:3001/aostv/601bccf04b354108f0abe67a/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="BANGLA [BDIX]", Duronto TV
+http://103.251.247.105:3001/aostv/601bcd3f4b354108f0abe67c/aos.m3u8|tokenUrl:/4_4
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="BANGLA [BDIX]", Nagorik TV
+http://103.251.247.105:3001/aostv/601bcd904b354108f0abe67e/aos.m3u8|tokenUrl:/4_4
